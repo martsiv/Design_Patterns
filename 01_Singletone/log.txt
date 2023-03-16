@@ -1,0 +1,2 @@
+ERROR:0 at 2023/03/16 22:21:32 - First message in the log
+WARNING:1 at 2023/03/16 22:21:32 - Second message in the log
